@@ -3,5 +3,6 @@ public class e2 {
         System.out.println("02");
         System.out.println("fen001ceshi001");
         System.out.println("fen001ceshi002");
+        System.out.println("master01");
     }
 }
